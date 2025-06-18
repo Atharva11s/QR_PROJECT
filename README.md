@@ -1,1 +1,3 @@
-# QR_PROJECT
+# QR_PROJECT.*
+
+the main code is in
